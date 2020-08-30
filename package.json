@@ -1,0 +1,12 @@
+{
+  "name": "saniales-readme-md",
+  "version": "0.0.1",
+  "description": "Saniales Readme.MD Github repository",
+  "main": "index.js",
+  "repository": "https://github.com/saniales/saniales",
+  "author": "Alessandro Sanino",
+  "license": "GPLv3",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
