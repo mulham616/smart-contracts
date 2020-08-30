@@ -7,17 +7,7 @@ const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-let DATA = {
-  name: 'Alessandro',
-  date: new Date().toLocaleDateString('en-GB', {
-    weekday: 'long',
-    month: 'long',
-    day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric',
-    timeZoneName: 'short',
-    timeZone: 'Europe/Rome',
-  }),
+const DATA = {
   preferred_stack: [
     {
       group: "IDE",
