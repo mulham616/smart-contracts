@@ -25,10 +25,9 @@ I am a cloud and blockchain architect living in **Bandito** (Cuneo area, Italy) 
 
 ### Wanna know some of my projects I am most proud of? Check out
 
-- My secondary account: @thebotguys
-
+- My secondary profile: [**@thebotguys**](https://github.com/thebotguys)
+- The Zero Penny Architecture profile: [**@zero-penny-architecture**](https://github.com/zero-penny-architecture)
 - Some cool stuff I have here:
-
   | URL | Project Name | Description | Tech Stack |
   | --- | ------------ | ----------- | ---------- |
   | [**URL**](https:&#x2F;&#x2F;alessandro.sanino.dev) | My personal website | A website built to show my job profile | [!Pure HTML5 + CSS](https://img.shields.io/badge/-Pure%20HTML5%20+%20CSS)-orange?style=flat-square&logo=&logoColor=white) |
