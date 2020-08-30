@@ -31,7 +31,6 @@ I am a cloud and blockchain architect living in **Bandito** (Cuneo area, Italy) 
 
   | URL | Project Name | Description | Tech Stack |
   | --- | ------------ | ----------- | ---------- |
-  | 
 {#projects}
   | [**URL**]() | Alessandro |  |  |
 {/projects}
