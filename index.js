@@ -237,6 +237,13 @@ let DATA = {
       description: "A VueJS project which includes Navigation (vue-router), State management (vuex) all in an OOP Typescript flavour. Inspired by the [**Zero Penny Architecture**](https://medium.com/@saniales/the-0-penny-architecture-explained-how-i-created-a-complete-development-environment-composing-4f1318c71a17) concept",
       tech_stack_items: [
         {
+          name: "Docker",
+          encoded_name: "Docker",
+          color: "blue",
+          logo: "docker",
+          logo_color: "white"
+        },
+        {
           name: "Heroku",
           encoded_name: "Heroku",
           color: "purple",
