@@ -166,7 +166,7 @@ let DATA = {
         },
         {
           name: "Realm DB",
-          encoded_name: "Realm DB",
+          encoded_name: "Realm%20DB",
           color: "purple",
           logo: "realm",
           logo_color: "white"
