@@ -161,7 +161,7 @@ let DATA = {
           name: "Nuxt",
           encoded_name: "Nuxt",
           color: "green",
-          logo: "nuxt",
+          logo: "nuxt.js",
           logo_color: "white"
         },
         {
@@ -181,9 +181,94 @@ let DATA = {
       ]
     }
   ],
-  projects: {
-
-  }
+  projects: [
+    {
+      url: "https://alessandro.sanino.dev",
+      name: "My personal website",
+      description: "A website built to show my job profile",
+      tech_stack_items: [
+        {
+            name: "Pure HTML5 + CSS",
+            encoded_name: "Pure%20HTML5%20+%20CSS",
+            color: "orange",
+            logo: "html5",
+            logo_color: "white"
+        }
+    },
+    {
+      url: "https://goa.design",
+      name: "Goa Design",
+      description: "I an official maintainer of this framework which provides a holistic approach for developing remote APIs and microservices in Go",
+      tech_stack_items: [
+        {
+          name: "Golang",
+          encoded_name: "Golang",
+          color: "blue",
+          logo: "go",
+          logo_color: "white"
+        },
+        {
+          name: "Goa Design framework",
+          encoded_name: "Goa%20Design%20framework",
+          color: "blue",
+          logo: "go",
+          logo_color: "white"
+        }
+    },
+    {
+      url: "https://github.com/saniales/golang-crypto-trading-bot",
+      name: "Golang Crypto Trading Bot",
+      description: "A golang implementation of a console-based trading bot for cryptocurrency exchanges. 300+ stars, featured on Awesome GO list",
+      tech_stack_items: [
+        {
+          name: "Golang",
+          encoded_name: "Golang",
+          color: "blue",
+          logo: "go",
+          logo_color: "white"
+        }
+    },
+    {
+      url: "https://github.com/zero-penny-architecture/vuejs-starter-kit",
+      name: "Zeropenny Vue.js Starter Kit",
+      description: "A VueJS project which includes Navigation (vue-router), State management (vuex) all in an OOP Typescript flavour. Inspired by the [**Zero Penny Architecture**](https://medium.com/@saniales/the-0-penny-architecture-explained-how-i-created-a-complete-development-environment-composing-4f1318c71a17) concept",
+      tech_stack_items: [
+        {
+          name: "Heroku",
+          encoded_name: "Heroku",
+          color: "purple",
+          logo: "heroku",
+          logo_color: "white"
+        },
+        {
+          name: "Gitlab Pipelines",
+          encoded_name: "Gitlab%20Pipelines",
+          color: "orange",
+          logo: "gitlab",
+          logo_color: "white"
+        },
+        {
+          name: "VueJS",
+          encoded_name: "VueJS",
+          color: "green",
+          logo: "vue.js",
+          logo_color: "white"
+        }
+    },   
+    {
+      url: "https://github.com/zero-penny-architecture/create-zp-vue-app",
+      name: "Create Zeropenny Vue App",
+      description: "An application made to generate projects based on [zeropenny-vuejs-starter-kit](https://github.com/zero-penny-architecture/vuejs-starter-kit)",
+      tech_stack_items: [
+        {
+          name: "Node",
+          encoded_name: "Node",
+          color: "green",
+          logo: "node.js",
+          logo_color: "white"
+        }
+    }
+  ]
 };
 
 /**
