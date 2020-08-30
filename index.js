@@ -188,12 +188,13 @@ let DATA = {
       description: "A website built to show my job profile",
       tech_stack_items: [
         {
-            name: "Pure HTML5 + CSS",
-            encoded_name: "Pure%20HTML5%20+%20CSS",
-            color: "orange",
-            logo: "html5",
-            logo_color: "white"
+          name: "Pure HTML5 + CSS",
+          encoded_name: "Pure%20HTML5%20+%20CSS",
+          color: "orange",
+          logo: "html5",
+          logo_color: "white"
         }
+      ]
     },
     {
       url: "https://goa.design",
@@ -214,6 +215,7 @@ let DATA = {
           logo: "go",
           logo_color: "white"
         }
+      ]
     },
     {
       url: "https://github.com/saniales/golang-crypto-trading-bot",
@@ -227,6 +229,7 @@ let DATA = {
           logo: "go",
           logo_color: "white"
         }
+      ]
     },
     {
       url: "https://github.com/zero-penny-architecture/vuejs-starter-kit",
@@ -254,7 +257,8 @@ let DATA = {
           logo: "vue.js",
           logo_color: "white"
         }
-    },   
+      ]
+    },
     {
       url: "https://github.com/zero-penny-architecture/create-zp-vue-app",
       name: "Create Zeropenny Vue App",
@@ -267,6 +271,7 @@ let DATA = {
           logo: "node.js",
           logo_color: "white"
         }
+      ]
     }
   ]
 };
