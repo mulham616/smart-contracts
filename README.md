@@ -7,7 +7,7 @@ Thanks for coming to my profile. Here is a few things to know me better:
 
 [![Linkedin: Alessandro Sanino](https://img.shields.io/badge/-Alessandro%20Sanino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandrosanino)](https://www.linkedin.com/in/alessandrosanino)
 [![Facebook: Alessandro Sanino](https://img.shields.io/badge/-Alessandro%20Sanino-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/therealsaniales)](https://www.facebook.com/therealsaniales)
-[![Instagram: therealsaniales](https://img.shields.io/badge/-therealsaniales-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/therealsaniales)](https://instagram.com/therealsaniales)
+[![Instagram: therealsaniales](https://img.shields.io/badge/-therealsaniales-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/therealsaniales)](https://instagram.com/therealsaniales)
 
 I am a cloud and blockchain architect living in **Bandito** (Cuneo area, Italy) and I love **open source** and **remote-first** jobs. Creator and inventor of the [Zero Penny Architecture](https://github.com/zero-penny-architecture) pattern (You can find more info [**HERE**](https://medium.com/@saniales/the-0-penny-architecture-explained-how-i-created-a-complete-development-environment-composing-4f1318c71a17))
 
