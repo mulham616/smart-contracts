@@ -2,9 +2,10 @@ Hello there 👋
 
 Thanks for coming to my profile. Here is a few things to know me better:
 
+![saniales' GitHub stats](https://github-readme-stats.vercel.app/api?username=saniales&count_private=true&show_icons=true)
+
 [![Twitter: therealsaniales](https://img.shields.io/twitter/follow/therealsaniales?style=social)](https://twitter.com/ThaiiBraga)
 [![GitHub @saniales](https://img.shields.io/github/followers/saniales?label=follow&style=social)](https://github.com/saniales)
-
 [![Linkedin: Alessandro Sanino](https://img.shields.io/badge/-Alessandro%20Sanino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandrosanino)](https://www.linkedin.com/in/alessandrosanino)
 [![Facebook: Alessandro Sanino](https://img.shields.io/badge/-Alessandro%20Sanino-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/therealsaniales)](https://www.facebook.com/therealsaniales)
 [![Instagram: therealsaniales](https://img.shields.io/badge/-therealsaniales-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/therealsaniales)](https://instagram.com/therealsaniales)
